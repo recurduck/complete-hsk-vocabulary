@@ -134,31 +134,6 @@ Each entry includes different types of information:
 
 ---
 
-### Community
-
-In case you want to ask a question, suggest an idea, or practically anything related to this project - feel free! Everything and everyone is welcome.
-
-<img src="https://starchart.cc/drkameleon/complete-hsk-vocabulary.svg#gh-light-mode-only">
-
-#### Contributing
-
-If you notice anything wrong with any of the wordlists, or have an idea/question/whatever, feel free to [open an issue](https://github.com/drkameleon/complete-hsk-vocabulary/issues) or [make a pull request](https://github.com/drkameleon/complete-hsk-vocabulary/pulls). Don't even hesitate! :wink:
-
-
-#### Donations
-
-Given that this project (along with [*many* others](https://github.com/drkameleon?tab=repositories&q=&type=&language=&sort=stargazers) - most importantly, the [Arturo programming language](https://github.com/arturo-lang)) is maintained in my own free time, if you think it's useful, you'd be more than welcome to donate and ... help me focus on open-source work that *really* matters. :-)
-
-> [!IMPORTANT]
-> Also: it's always *good karma*. (And, admittedly, I wanted to use a nice hint box here too lol)
-
-##### How can I donate?
-
-There are different options:
-
-- [GitHub Sponsors](https://github.com/sponsors/drkameleon)
-- [Bitcoins](https://blockchain.info/address/bc1qpjlmktrz79muz4yksm8aadz3d3srh0rmnn3hhd)
-
 ### License
  
 MIT License
